@@ -1,0 +1,7 @@
+# BookmarkPilot - No external dependencies required!
+# This project uses only Python standard library
+# 
+# Python version: >= 3.8
+#
+# Optional dependencies for enhanced functionality:
+# requests>=2.25.0  # For better HTTP handling
